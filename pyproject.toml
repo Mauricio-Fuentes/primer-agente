@@ -1,0 +1,11 @@
+[project]
+name = "mi-primer-agente"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pydantic>=2.14.1",
+    "pydantic-ai>=2.59.0",
+    "pydantic-settings>=2.16.1",
+]
